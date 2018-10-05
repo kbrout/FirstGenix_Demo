@@ -1,0 +1,6 @@
+# pack-refs with: peeled
+7a96bd210fd95cd6a1012fc18386248a438806ed refs/remotes/origin/27_Follow_bearer_scheme
+bbf06c9cad738317a7c1243a426a54e7ae8b3752 refs/remotes/origin/master
+35c3894e51f761ede0dc1421178c137e95c7c76b refs/tags/0.1.0
+bf69f8d308301725855049ffd9243b3bfe829432 refs/tags/0.2.0
+413b9fe05ebbfe9a3745fba89c7a61f5ac8c1cc8 refs/tags/1.0.0

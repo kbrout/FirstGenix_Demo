@@ -1,0 +1,7 @@
+org\zerhusen\security\UserDetailsDummy.class
+org\zerhusen\JwtDemoApplicationTest.class
+org\zerhusen\rest\UserRestControllerTest.class
+org\zerhusen\rest\PersonRestControllerTest.class
+org\zerhusen\security\JwtTokenUtilTest.class
+org\zerhusen\rest\AuthenticationRestControllerTest.class
+org\zerhusen\rest\MethodProtectedRestControllerTest.class
